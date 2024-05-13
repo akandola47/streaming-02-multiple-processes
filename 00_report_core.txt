@@ -1,0 +1,62 @@
+
+======================================================================
+STARTING UP.............................
+  Date and Time:    2024-05-10 at 05:47 PM
+  Operating System: posix Darwin 23.2.0
+  Python Version:   3.12.2
+  Path to Interpreter:  /usr/local/bin/python3
+======================================================================
+
+Called recreate_database().
+Called drop_table().
+Table 'pets' dropped successfully.
+Called create_table().
+Table 'pets' created successfully.
+
+======================================================================
+STARTING UP.............................
+  Date and Time:    2024-05-10 at 06:00 PM
+  Operating System: posix Darwin 23.2.0
+  Python Version:   3.12.2
+  Path to Interpreter:  /usr/local/bin/python3
+======================================================================
+
+Called recreate_database().
+Called drop_table().
+Table 'pets' dropped successfully.
+Called create_table().
+Table 'pets' created successfully.
+
+SUCCESS: All processes successfully completed!
+Now - increase the task duration (representing 
+      the time the task has the database 
+      tied up during an insert statement).
+How well do multiple, concurrent processes share a database 
+    when each task takes more time? 
+How can multiple processes share a resource
+    without interfering with each other?
+
+
+SUCCESS: All processes successfully completed!
+Now - increase the task duration (representing 
+      the time the task has the database 
+      tied up during an insert statement).
+How well do multiple, concurrent processes share a database 
+    when each task takes more time? 
+How can multiple processes share a resource
+    without interfering with each other?
+
+
+======================================================================
+STARTING UP.............................
+  Date and Time:    2024-05-10 at 06:02 PM
+  Operating System: posix Darwin 23.2.0
+  Python Version:   3.12.2
+  Path to Interpreter:  /usr/local/bin/python3
+======================================================================
+
+Called recreate_database().
+Called drop_table().
+Table 'pets' dropped successfully.
+Called create_table().
+Table 'pets' created successfully.
